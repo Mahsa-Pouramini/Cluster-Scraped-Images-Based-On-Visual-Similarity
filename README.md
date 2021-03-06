@@ -20,7 +20,6 @@ This code passes pages of the website one by one and collects all the 'jpg' imag
 * Collected dataset:
 
 Images stored in the folder:
-
 You can save the images, whether with their main labels or label them according to your need. I prefer to tag them in numerical order.
 
 ![alt text](https://github.com/mahsa-pam/Creating-Dataset-Out-of-Web-Scraped-Images/blob/main/screen%20shots/shoes.PNG)
