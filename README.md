@@ -2,7 +2,7 @@
 This project has the purpose of illustrating an elementary example of web scraping for images on [Digikala](https://www.digikala.com), which is a commercial Persian website.
 
 ## Requirement:
-#### Install Requirement:
+#### Install requirement:
 * Install with 'pip install -r requirement.txt' or 'pip3 install -r requirement.txt'
 
 #### Description
