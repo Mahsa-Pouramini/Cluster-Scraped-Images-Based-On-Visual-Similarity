@@ -13,11 +13,11 @@ I scraped these images, and I will use them in a machine learning project as a r
 
 * Terminal
 This code passes pages of the website one by one and collects all the 'jpg' images, and shows you some messages that you can figure out where precisely the processing is.
-[alt text](https://github.com/mahsa-pam/Creating-Dataset-Out-of-Web-Scraped-Images/blob/main/screen%20shots/output.PNG)
+![alt text](https://github.com/mahsa-pam/Creating-Dataset-Out-of-Web-Scraped-Images/blob/main/screen%20shots/output.PNG)
 
 * Collected dataset
 Images stored in the folder 
-[alt text](https://github.com/mahsa-pam/Creating-Dataset-Out-of-Web-Scraped-Images/blob/main/screen%20shots/shoes.PNG)
+![alt text](https://github.com/mahsa-pam/Creating-Dataset-Out-of-Web-Scraped-Images/blob/main/screen%20shots/shoes.PNG)
 
 #### Next Updates
 We'll use these scraped shoe images as training data and clustering them with machine learning algorithms in the following updates.
