@@ -19,7 +19,7 @@ This code passes pages of the website one by one and collects all the 'jpg' imag
 
 * Collected dataset:
 
-Images stored in the folder: 
+Images stored in the folder:
 
 You can save the images, whether with their main labels or label them according to your need. I prefer to tag them in numerical order.
 
