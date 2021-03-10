@@ -39,7 +39,8 @@ you can learn more about VGG16 model [here](https://neurohive.io/en/popular-netw
 
 #### PCA
 
-Principal Component Analysis (PCA) is an unsupervised, non-parametric statistical technique primarily used for dimensionality reduction in machine learning.We use it to reducing the dimensionality while keeping as much information as possible.
+Principal Component Analysis (PCA) is an unsupervised, non-parametric statistical technique primarily used for dimensionality reduction in machine learning.We use it to reducing the dimensionality while keeping as much information as possible.It reduces the extracted components to 100 for a faster computation process.
+
 
 #### KMeans clustering
 
