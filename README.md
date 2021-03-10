@@ -47,7 +47,7 @@ We use This algorithm to group our feature vectors into k clusters. Each cluster
 The most critical thing here is, finding the optimal value of k; for doing this, we will use the Elbow method.
 In this method, we iterate the values of k from 2 to 30 and calculate the values of distortions for each value of k in the given range. To determine the optimal number of clusters, we have to select the value of k at the "elbow" ie, the point after which the distortion starts decreasing linearly. Thus for the given data, we conclude that the optimal number of clusters for the data is about 17.
  
-![alt text](http://localhost:8888/view/screen%20shots/elbow.PNG)
+![alt text](https://github.com/Mahsa-Pouramini/Creating-Dataset-Out-of-Web-Scraped-Images/blob/main/screen%20shots/elbow.PNG)
 
 #### One last step
 
