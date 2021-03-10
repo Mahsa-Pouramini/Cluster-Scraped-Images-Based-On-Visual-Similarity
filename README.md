@@ -1,4 +1,4 @@
-# cluster scraped images based on visual similarity 
+# Cluster Scraped Images Based On Visual Similarity 
 
 In this project, we will scrap 10000 images to create our dataset and cluster them with their visual similarity using deep learning algorithms.
 
@@ -39,7 +39,7 @@ you can learn more about VGG16 model [here](https://neurohive.io/en/popular-netw
 
 #### PCA
 
-We use Principal Component Analysis to reducing the dimensionality while keeping as much information as possible.
+Principal Component Analysis (PCA) is an unsupervised, non-parametric statistical technique primarily used for dimensionality reduction in machine learning.We use it to reducing the dimensionality while keeping as much information as possible.
 
 #### KMeans clustering
 
