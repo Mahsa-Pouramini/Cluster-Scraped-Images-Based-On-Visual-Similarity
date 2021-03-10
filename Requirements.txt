@@ -1,3 +1,11 @@
-BeautifulSoup
-urllib.request
+builtins
+builtins
+pkg_resources
+os
+numpy
+matplotlib.pyplot
+pandas
+pickle
+urllib
 requests
+shutil
